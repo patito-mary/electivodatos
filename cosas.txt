@@ -1,0 +1,5 @@
+QFitsView 1D fit
+================
+Type,Flux,Height,Center,FWHM,d_Flux,d_Height,d_Center,d_FWHM
+a+bx,-996.772,0.50578,149610,21.5856
+Gauss,201545,50655.2,6925.552,3.7378,1493.15,218.71,0.00744131,0.0225028
