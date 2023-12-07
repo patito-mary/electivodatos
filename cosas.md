@@ -1,3 +1,5 @@
+# Gaussianas
+
 Galaxita como moco
 QFitsView 1D fit
 ================
@@ -25,3 +27,10 @@ QFitsView 1D fit
 Type,Flux,Height,Center,FWHM,d_Flux,d_Height,d_Center,d_FWHM
 a+bx,922070,-131.048,3.96288e+6,567.462
 Gauss,352847,34911.3,6971.747,9.49488,118114,8242.41,0.573474,2.25319
+
+## links de interes 
+Lineas: http://astronomy.nmsu.edu/drewski/tableofemissionlines.html  
+
+Cosmocal : https://www.astro.ucla.edu/~wright/CosmoCalc.html  
+
+Tutorial :  https://learn.astropy.org/tutorials/FITS-cubes.html  
